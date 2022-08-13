@@ -1,0 +1,125 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"username": "omar",
+			"password": "1234"
+		},
+		{
+			"id": 2,
+			"username": "ahmad",
+			"password": "4321"
+		},
+		{
+			"id": 3,
+			"username": "sara",
+			"password": "abc331"
+		},
+		{
+			"id": 4,
+			"username": "laila",
+			"password": "sc21"
+		},
+		{
+			"id": 5,
+			"username": "ayman",
+			"password": "xvewwf"
+		}
+	],
+	"tasks": [
+		{
+			"id": 1,
+			"title": "Study",
+			"userId": 1,
+			"statusId": 2
+		},
+		{
+			"id": 2,
+			"title": "Play",
+			"userId": 5,
+			"statusId": 1
+		},
+		{
+			"id": 3,
+			"title": "Go out",
+			"userId": 1,
+			"statusId": 1
+		},
+		{
+			"id": 4,
+			"title": "Meet friends",
+			"userId": 1,
+			"statusId": 2
+		},
+		{
+			"id": 5,
+			"title": "Watch movies",
+			"userId": 3,
+			"statusId": 1
+		},
+		{
+			"id": 6,
+			"title": "Learn Nestjs",
+			"userId": 4,
+			"statusId": 1
+		},
+		{
+			"id": 7,
+			"title": "Learn React",
+			"userId": 1,
+			"statusId": 2
+		},
+		{
+			"id": 8,
+			"title": "Travel",
+			"userId": 1,
+			"statusId": 1
+		},
+		{
+			"id": 9,
+			"title": "Study",
+			"userId": 1,
+			"statusId": 2
+		},
+		{
+			"id": 10,
+			"title": "Travel",
+			"userId": 2,
+			"statusId": 1
+		},
+		{
+			"id": 11,
+			"title": "Make coffee",
+			"userId": 1,
+			"statusId": 1
+		},
+		{
+			"id": 12,
+			"title": "Play sports",
+			"userId": 4,
+			"statusId": 1
+		},
+		{
+			"id": 13,
+			"title": "Learn violin",
+			"userId": 3,
+			"statusId": 2
+		},
+		{
+			"id": 14,
+			"title": "Go to work",
+			"userId": 2,
+			"statusId": 2
+		}
+	],
+	"status": [
+		{
+			"id": 1,
+			"title": "Completed"
+		},
+		{
+			"id": 2,
+			"title": "Pending"
+		}
+	]
+}
